@@ -209,6 +209,13 @@ Works with **any CLI agent** — if it runs in a terminal, it runs in Orca.
 
 ## Install
 
+### Windows quick setup (this fork)
+
+For a new PC, [Windows Quick Setup](config/quick-setup/README.md) installs the
+supporting tools and offers the official stable Orca installer, optional Codex CLI,
+and optional Ollama. Extract the small setup ZIP and double-click the launcher;
+no source build is needed. This uses the upstream desktop app, not a custom fork build.
+
 ### Desktop — macOS, Windows, Linux
 
 - **[Download from onOrca.dev](https://onorca.dev/download)**
